@@ -9,14 +9,13 @@ Welcome to my GitHub! I'm currently pursuing my Bachelor's in Engineering, speci
 - **Languages:** Java, C++
 - **Mobile Development:** Learning Android Development
 - **Algorithms & Data Structures:** Proficient
-- **Tools & Technologies:**
-- 
 
-## 🌱 Currently Learning
+
+🌱 Currently Learning
 
 I'm currently diving deeper into Android development and exploring the latest tools and libraries in the mobile development space.
 
-## 📫 Let's Connect
+📫 Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/adityap5509/
 
