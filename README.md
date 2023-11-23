@@ -23,4 +23,4 @@ Feel free to connect, collaborate, or share insights about Java, C++, Android, o
 
 Happy coding! 🚀
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=adityaap55)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=adityaap55&theme=gruvbox)]
