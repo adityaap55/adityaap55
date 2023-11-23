@@ -22,3 +22,5 @@ I'm currently diving deeper into Android development and exploring the latest to
 Feel free to connect, collaborate, or share insights about Java, C++, Android, or anything tech-related. I'm always open to learning and contributing to exciting projects.
 
 Happy coding! 🚀
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=adityaap55)](https://github.com/ryo-ma/github-profile-trophy)
