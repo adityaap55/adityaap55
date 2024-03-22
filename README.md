@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/adityap5509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityap5509" height="30" width="40" /></a>
 <a href="https://instagram.com/aditya.ap18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya.ap18" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adityapandey55095509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityapandey55095509" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/adityap55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityapandey55095509" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@adityapandey55095509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@adityapandey55095509" height="30" width="40" /></a>
 </p>
 
