@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=adityaap55"><img src="https://github-profile-trophy.vercel.app/?username=adityaap55" alt="adityaap55" /></a> </p>
 
-- 🔭 I’m currently working on **Stock Management System**
-
-- 🌱 I’m currently learning **Django,Nodejs,Android Development**
-
-- 💬 Ask me about **C++,JAVA,Data Structures,ReactJS**
-
 - 📫 How to reach me **adityapandey55095509@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
